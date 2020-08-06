@@ -1,0 +1,12 @@
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.exe
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.deps.json
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.runtimeconfig.json
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.runtimeconfig.dev.json
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.dll
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\bin\Debug\netcoreapp3.1\AppMan.pdb
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.AssemblyInfoInputs.cache
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.AssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.dll
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.pdb
+C:\Users\Administrator.DESKTOP-BUA0F0U\source\repos\AppMan\AppMan\obj\Debug\netcoreapp3.1\AppMan.genruntimeconfig.cache
